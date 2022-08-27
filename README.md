@@ -23,6 +23,9 @@ You can use the website to generate badges: https://shields.io/
 
 <hr>
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="390" height="240" />
+
+
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working with Dart and Firebase.
 - 🚀 &nbsp; I’m always learning to keep myself updated with the latest stuff.
