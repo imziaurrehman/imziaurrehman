@@ -37,7 +37,7 @@ You can use the website to generate badges: https://shields.io/
 - 📫 &nbsp; How to reach me: imziaafridi@gmail.com
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,andriod,firebase,github,git,postman,figma,xd,mysql,js,java,mongodb&perline=5)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=imziaurrehman&show_icons=true&theme=dark)
 
