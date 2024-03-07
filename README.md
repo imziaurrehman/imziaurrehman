@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp> I'm passionate Flutter Developer with a keen interest in crafting elegant and efficient mobile applications.I thrive on creating intuitive UIs and optimizing performance for seamless user experiences.Eager to collaborate and learn, I'm excited about contributing to innovative projects and staying at the forefront of mobile development.
+  <samp> I'm passionate Flutter Developer with a keen interest in crafting elegant and efficient mobile applications. I thrive on creating intuitive UIs and optimizing performance for seamless user experiences. Eager to collaborate and learn, I'm excited about contributing to innovative projects and staying at the forefront of mobile development.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=imziaurrehman" alt="https://github.com/imziaurrehman" />
