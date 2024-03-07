@@ -28,10 +28,12 @@ You can use the website to generate badges: https://shields.io/
 
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working on Flutter.
+- 🌱 I’m currently learning Backend
 - 🚀 &nbsp; I’m always learning to keep myself updated with the latest stuff.
 - 💬 Ask me anything about Flutter 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/imziaurrehman).
 - 👾 &nbsp; Fun fact: Enjoying life with coding for people.
+- 😄 My website: https://realtimecoding.com/
 - 📫 &nbsp; How to reach me: imziaafridi@gmail.com
 
 ### Languages and Tools:
