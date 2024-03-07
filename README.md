@@ -15,13 +15,8 @@ You can use the website to generate badges: https://shields.io/
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>👋 Hey there! I'm Zia, a budding Flutter Junior Developer passionate about crafting sleek and functional mobile apps. I specialize in Flutter, creating cross-platform solutions with a focus on user experience and performance.
-
-🚀 I thrive on challenges and am always eager to learn and grow in the dynamic field of mobile development. With a collaborative mindset and a drive for innovation, I'm excited to contribute to impactful projects and make a difference in the tech world.
-
-📫 Let's connect! Feel free to reach out via email or connect with me on LinkedIn.
-
-
+  <samp>👋 Hello there! I'm Zia, a passionate Flutter Junior Developer with a keen interest in crafting elegant and efficient mobile applications.
+     Eager to collaborate and learn, I'm excited about contributing to innovative projects and staying at the forefront of mobile development.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=imziaurrehman" alt="https://github.com/imziaurrehman" />
