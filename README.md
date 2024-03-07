@@ -15,7 +15,13 @@ You can use the website to generate badges: https://shields.io/
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A beginner resourceful flutter developer. Learning Dart and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
+  <samp>👋 Hey there! I'm Zia, a budding Flutter Junior Developer passionate about crafting sleek and functional mobile apps. I specialize in Flutter, creating cross-platform solutions with a focus on user experience and performance.
+
+🚀 I thrive on challenges and am always eager to learn and grow in the dynamic field of mobile development. With a collaborative mindset and a drive for innovation, I'm excited to contribute to impactful projects and make a difference in the tech world.
+
+📫 Let's connect! Feel free to reach out via email or connect with me on LinkedIn.
+
+
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=imziaurrehman" alt="https://github.com/imziaurrehman" />
@@ -27,8 +33,9 @@ You can use the website to generate badges: https://shields.io/
 
 
 ### Talking about Personal Stuff:
-- 🛠 &nbsp; I’m currently working with Dart and Firebase.
+- 🛠 &nbsp; I’m currently working on Flutter.
 - 🚀 &nbsp; I’m always learning to keep myself updated with the latest stuff.
+- 💬 Ask me anything about Flutter 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/imziaurrehman).
 - 👾 &nbsp; Fun fact: Enjoying life with coding for people.
 - 📫 &nbsp; How to reach me: imziaafridi@gmail.com
@@ -36,6 +43,6 @@ You can use the website to generate badges: https://shields.io/
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
+![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=imziaurrehman&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imziaurrehman&theme=dark)
