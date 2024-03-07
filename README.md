@@ -39,6 +39,4 @@ You can use the website to generate badges: https://shields.io/
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,js,java,mongodb&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=imziaurrehman&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imziaurrehman&theme=dark)
+![Zia Rehman GitHub stats](https://github-readme-stats.vercel.app/api?username=imziaurrehman&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imziaurrehman&theme=dark)
