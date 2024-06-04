@@ -5,12 +5,17 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/imziaurrehman)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zia-rehman-afridi-1807951b0/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/zia_afridi11223)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/zia.afridi.94214/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:imziaafridi@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://realtimecoding.com/)
+[![Github](https://img.shields.io/badge/-imziaurrehman-000?style=flat&logo=Github&logoColor=white)](https://github.com/imziaurrehman)
+[![Linkedin](https://img.shields.io/badge/-ZiaAfridi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zia-afridi/)
+[![X](https://img.shields.io/badge/imziaopriday-black?logo=x)](https://x.com/imziaopriday)
+[![Instagram](https://img.shields.io/badge/-codewithzia.10-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/codewithzia.10/)
+[![Tiktok](https://img.shields.io/badge/xeeadecoder-black?logo=tiktok)](https://www.tiktok.com/@xeeadecoder)
+[![Facebook](https://img.shields.io/badge/ziacodewhiz-blue?logo=facebook)](https://www.facebook.com/ziacodewhiz)
+[![Facebook](https://img.shields.io/badge/realtimecoding-blue?logo=facebook)](https://www.facebook.com/realtimecoding/)
+[![Gmail](https://img.shields.io/badge/-imziaafridi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:imziaafridi@gmail.com)
+[![Website Badge](https://img.shields.io/badge/realtimecoding-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://realtimecoding.com/)
+[![Threads](https://img.shields.io/badge/codewithzia.1-black?logo=threads)](https://www.threads.net/@codewithzia.10)
+
 &nbsp;
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
